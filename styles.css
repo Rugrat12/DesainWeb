@@ -1,0 +1,105 @@
+@charset "utf-8";
+#header {
+	background-image: url(birumuda.jpg);
+	height: 94px;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	background:white;
+}
+#wrapper{
+	width: 980px;
+	margin: 0 auto;
+	overflow: hidden;
+	background:#CCC;
+}
+#menu {
+	background-image: url(blue_skies.jpg);
+	height: 32px;
+	width: 100%;
+}
+#middle {
+}
+#footer {
+	background-image: url(background-images-9442.jpeg);
+	text-align: right;
+	clear: both;
+	height: 33px;
+	width: 100%;
+}
+#footer {
+	background-image: url(blue_skies.jpg);
+	text-align: right;
+	clear: both;
+	height: 33px;
+	color:white;
+}
+
+#submenu{
+	width:210px;
+	float:left;
+	padding-left:10px;
+}
+#submenu h2{
+	font-size:18px;
+	margin:10px 0;
+}
+#submenu p{
+	line-weight:20px;
+	color : #636363;
+}
+
+#submenu ul li a{
+	color: #636363;
+	text-decoration:none;
+}
+#content {
+	width:760px;
+	float:right;
+	
+}
+.artikel {
+	background:#ffffff;
+	padding: 10px;
+	margin: 10px 10px 20px 10px;
+	overflow:hidden;
+	border-radius:15px;
+	
+}
+
+.artikel img{
+	float:left;
+	margin-right:10px;
+	margin-top:10px;
+	width:140px;
+	height:auto;
+}
+
+.artikel b{
+	color:#616060;
+	background:#DDDDDD;
+	padding:3px;
+	font-size:12px;
+	font-weight:bold;
+	margin-right:10px;
+}
+
+.artikel p{
+	margin:10px 0;
+}
+
+.artikel a{
+	display:block;
+	text-align:right;
+	color:#636363;
+}
+h1 {
+	font-size: 18px;
+	color: #D6130A;
+}

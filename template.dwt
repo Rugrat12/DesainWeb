@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../styles.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="header"><img src="../socmed.png" width="142" height="96" alt="logo" longdesc="logo RA.jpg" /></div>
+<div id="menu">
+<a href="../setia.html" style="color:white;font-zise:24px;margin-right:35px;">Home</a>
+<a href="../setia.html" style="color:white;font-zise:24px;margin-right:35px;">About Us</a>
+<a href="../setia.html" style="color:white;font-zise:24px;margin-right:35px;">Services</a>
+<a href="../setia.html" style="color:white;font-zise:24px;margin-right:35px;">Contact Us</a>
+</div>
+<div id="middle">
+  <div id="submenu">Content for  id "submenu" Goes Here</div>
+  <div id="content"> <!-- TemplateBeginEditable name="Cntent" -->Cntent<!-- TemplateEndEditable --></div>
+</div>
+<div id="footer">2017 All Rights Reserved</div>
+
+</body>
+</html>
